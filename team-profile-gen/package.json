@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-gen",
+  "version": "1.0.0",
+  "description": "Generates a presentable team profile.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanielMar/Team-Profile-Gen.git"
+  },
+  "author": "NathanielMar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanielMar/Team-Profile-Gen/issues"
+  },
+  "homepage": "https://github.com/NathanielMar/Team-Profile-Gen#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
